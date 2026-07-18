@@ -5,3 +5,4 @@ Me formei no final de 2025 e, hoje em dia, não estou dentro da área. Quero mui
 MUITO OBRIGADO PELA ATENÇÃO <3
 
 A langing page e bem responsiva, com um designer bem versatil, totalmente responsiva...
+para icones irei utilizar o fontawesome
