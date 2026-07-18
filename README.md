@@ -1,0 +1,5 @@
+Vamos lá, primeira vez que vou colocar um README em algum repositório. Estou fazendo essa landing page com o intuito de voltar a programar e criar novamente a vontade e o desejo que um dia já senti de concluir projetos e trazer solução para problemas reais. Espero que, com esse projeto simples, eu volte a ter a vontade que já tive.
+
+Me formei no final de 2025 e, hoje em dia, não estou dentro da área. Quero muito conseguir minha primeira oportunidade em uma empresa como JÚNIOR. Sei que tenho muito no que melhorar e irei, a partir de agora, me esforçar muito para me tornar melhor a cada dia que passa. Espero que alguém realmente leia isso e, caso queira conversar, me dar dicas, conselhos ou qualquer outra coisa, pode entrar em contato comigo através do e-mail: lucasfrz26@gmail.com ou através do Instagram @olucasrodriguez.
+
+MUITO OBRIGADO PELA ATENÇÃO <3
